@@ -26,6 +26,7 @@
       </p>
     </div>  
    </div>
+</div>
     
   
 ![Snake animation](https://github.com/oKevinRaupp/oKevinRaupp/blob/output/github-contribution-grid-snake.svg)
