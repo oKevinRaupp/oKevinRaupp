@@ -1,7 +1,7 @@
 # Welcome to my world!
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=oKevinRaupp&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oKevinRaupp&show_icons=true&include_all_commits=false&count_private=true&theme=dark"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKevinRaupp&layout=compact&theme=dark"/>
 </div>
 <br>
